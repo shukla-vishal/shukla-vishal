@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**shukla-vishal/shukla-vishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Vishal Shukla 
+[![Linkedin Badge](https://img.shields.io/badge/-VishalShukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-shukla-658784188/)](https://www.linkedin.com/in/vishal-shukla-658784188/) [![Gmail Badge](https://img.shields.io/badge/-vishalshuklak02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalshuklak02@gmail.com)](mailto:vishalshuklak02@gmail.com)
+<a href="https://www.hackerrank.com/vishalshuklak800">
+  <img alt="Vishal's Hackerank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+-  :fire: **Working On :** Deep Learning | Machine-Learning | Image Processing 
+-  :computer: **Skills :** Python, SQL, Machine Learning 
+-  :bat: **Hobbies :** Reading, Cricket, Table Tennis
+-  :books: **Studying at :** Delhi Tecnological University (Formerly DCE)
