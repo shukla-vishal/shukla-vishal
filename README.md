@@ -10,4 +10,3 @@
 -  :fire: **Working On :** Deep Learning | Machine-Learning | Image Processing 
 -  :computer: **Skills :** Python, SQL, Machine Learning 
 -  :bat: **Hobbies :** Reading, Cricket, Table Tennis
--  :books: 
