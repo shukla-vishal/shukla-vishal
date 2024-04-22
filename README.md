@@ -7,6 +7,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  :fire: **Working On :** Deep Learning | Machine-Learning | Image Processing 
+-  :fire: **Working On :**GNSS and Drone Data Processing| Image Processing 
 -  :computer: **Skills :** Python, SQL, Machine Learning 
 -  :bat: **Hobbies :** Reading, Cricket, Table Tennis
